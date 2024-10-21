@@ -1,4 +1,3 @@
-// src/components/Family.js
 import React from 'react';
 import './Family.css';
 
