@@ -1,0 +1,16 @@
+/* src/components/Education.css */
+.education {
+    background-color: #f0f0f0; /* Same background color as header */
+    padding: 20px;
+    text-align: center;
+}
+
+.education h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.education p {
+    font-size: 1.2rem;
+    color: #666;
+}

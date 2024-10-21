@@ -1,0 +1,21 @@
+/* src/components/Achievements.css */
+.achievements {
+    background-color: #f0f0f0; /* Same background color as header */
+    padding: 20px;
+    text-align: center;
+}
+
+.achievements h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.achievements ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.achievements li {
+    font-size: 1.2rem;
+    color: #666;
+}
